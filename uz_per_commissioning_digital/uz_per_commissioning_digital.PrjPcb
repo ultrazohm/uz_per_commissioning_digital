@@ -48,6 +48,43 @@ CrossRefFollowFromMainSettings=1
 PrefsVaultGUID=
 PrefsRevisionGUID=
 
+[Document1]
+DocumentPath=Connectors.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UXYPYWWZ
+
+[Parameter1]
+Name=ProjectRevision
+Value=1v0
+
+[Parameter2]
+Name=Website
+Value=www.ultrazohm.com
+
+[Parameter3]
+Name=ProjectNameCustom
+Value=uz_per_commissioning_digital
+
+[Parameter4]
+Name=AuthorParam
+Value=N. Diringer
+
+[Parameter5]
+Name=Author
+Value=N. Diringer
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
