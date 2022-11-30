@@ -65,25 +65,42 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UXYPYWWZ
 
+[Document2]
+DocumentPath=uz_per_commissioning_digital.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KSJAVDHB
+
 [Parameter1]
-Name=ProjectRevision
-Value=1v0
+Name=Author
+Value=N. Diringer
 
 [Parameter2]
-Name=Website
-Value=www.ultrazohm.com
+Name=AuthorParam
+Value=N. Diringer
 
 [Parameter3]
 Name=ProjectNameCustom
 Value=uz_per_commissioning_digital
 
 [Parameter4]
-Name=AuthorParam
-Value=N. Diringer
+Name=ProjectRevision
+Value=1v0
 
 [Parameter5]
-Name=Author
-Value=N. Diringer
+Name=Website
+Value=www.ultrazohm.com
 
 [Configuration1]
 Name=Sources
