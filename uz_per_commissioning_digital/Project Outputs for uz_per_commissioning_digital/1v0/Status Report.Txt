@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [uz_per_commissioning_digital.PcbDoc]
+   Generated File[uz_per_commissioning_digital_1v0.TXT]
+   Generated File[uz_per_commissioning_digital_1v0.LDP]
+   Generated File[uz_per_commissioning_digital_1v0.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:03:30 On 22.12.2022

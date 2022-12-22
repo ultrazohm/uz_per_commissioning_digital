@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: uz_per_commissioning_digital.PcbDoc   22.12.2022  16:03:30
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : uz_per_commissioning_digital_1v0.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             15        PTH        1.01inch (25.61mm)
+T2      14mil (0.351mm)                                           Round             32        PTH        13.82inch (350.97mm)
+T3      40mil (1.021mm)                                           Round             110       PTH        12.09inch (307.10mm)
+T4      53mil (1.349mm)                                           Round             16        PTH        5.05inch (128.21mm)
+T5      89mil (2.25mm)                                            Round             4         PTH        2.12inch (53.88mm)
+T6      50mil (1.27mm)                                            Round             2         NPTH       1.79inch (45.42mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              179
+
+Total Processing Time (hh:mm:ss) : 00:00:00

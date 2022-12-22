@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Nina Diringer\repos\uz_per_commissioning_digital\uz_per_commissioning_digital\uz_per_commissioning_digital.PcbDoc
-Date     : 21.12.2022
-Time     : 10:57:32
+Date     : 22.12.2022
+Time     : 16:04:16
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -67,4 +67,4 @@ Rule Violations :0
 
 Violations Detected : 1
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
