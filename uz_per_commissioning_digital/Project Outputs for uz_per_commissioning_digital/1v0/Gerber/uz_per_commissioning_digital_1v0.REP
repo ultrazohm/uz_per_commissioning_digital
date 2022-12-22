@@ -2,8 +2,10 @@
 FileName = uz_per_commissioning_digital_1v0.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : uz_per_commissioning_digital_1v0.GTL
+Generating : Top Solder
+      File : uz_per_commissioning_digital_1v0.GTS
+
+    Adding Layer      : Top Solder
 
     Adding Layer      : Top Layer
 
@@ -11,18 +13,57 @@ Generating : Top Layer
 
 
 Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : uz_per_commissioning_digital_1v0.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : uz_per_commissioning_digital_1v0.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D12
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : uz_per_commissioning_digital_1v0.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
     D10
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
+    D11
+    D12
+    D13
+    D14
+    D15
 *************************************************************
 
 *************************************************************
@@ -51,19 +92,42 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : uz_per_commissioning_digital_1v0.GTO
+Generating : Top Layer
+      File : uz_per_commissioning_digital_1v0.GTL
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D10
-    D11
-    D12
-    D13
-    D14
-    D15
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : uz_per_commissioning_digital_1v0.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D35
 *************************************************************
 
 *************************************************************
@@ -90,66 +154,38 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : uz_per_commissioning_digital_1v0.GBP
+Generating : Drill Drawing
+      File : uz_per_commissioning_digital_1v0.GD1
 
-    Adding Layer      : Bottom Paste
+    Adding Drill Pair : Top Layer-Bottom Layer
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Drill Drawing
 
 
 Used DCodes :
-    D35
+    D37
+    D38
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : uz_per_commissioning_digital_1v0.GBO
+Generating : Drill Guide
+      File : uz_per_commissioning_digital_1v0.GG1
 
-    Adding Layer      : Bottom Overlay
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
 
 
 Used DCodes :
-    D12
-    D14
-    D15
+    D37
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : uz_per_commissioning_digital_1v0.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+Generating : Profile
+      File : uz_per_commissioning_digital_1v0.GM
 
 
 Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : uz_per_commissioning_digital_1v0.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
+    D39
 *************************************************************
 
